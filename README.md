@@ -1,7 +1,7 @@
 # My_DataBase
 Big Data Infrastructure. Project focused on building a SQL database -- Java Interface
 
-
+_______________________________________
 ## Основные этапы реализации:
 
 Лабораторная работа №1: Определение интерфейсов и проектирование базовой структуры.
